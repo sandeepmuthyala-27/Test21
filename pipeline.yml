@@ -1,0 +1,7 @@
+trigger: none  # No automatic trigger, run manually
+
+pool:
+  vmImage: 'ado2ghe'  # You can use windows-latest if needed
+
+steps:
+  - script: echo "Hello World"
