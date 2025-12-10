@@ -1,4 +1,19 @@
-# Introduction 
+Testing WikiSync
+
+Testing Sync2
+
+Testing Sync3
+
+Testing Sync4 GH
+
+Testing Sync5 GH
+
+Testing Sync 6 GH
+
+Testing Sync 7 GH
+
+
+# Introduction
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
 # Getting Started
@@ -18,19 +33,3 @@ If you want to learn more about creating good readme files then refer the follow
 - [ASP.NET Core](https://github.com/aspnet/Home)
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
-
-Testing WikiSync
-
-Testing Sync2
-
-
-Testing Sync3
-
-Testing Sync4 GH
-
-Testing Sync5 GH
-
-Testing Sync 6 GH
-
-Testing Sync 7 GH
-
